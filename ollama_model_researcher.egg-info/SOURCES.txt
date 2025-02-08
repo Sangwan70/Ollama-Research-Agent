@@ -1,10 +1,10 @@
 README.md
 pyproject.toml
-ollama_model_researcher.egg-info/PKG-INFO
-ollama_model_researcher.egg-info/SOURCES.txt
-ollama_model_researcher.egg-info/dependency_links.txt
-ollama_model_researcher.egg-info/requires.txt
-ollama_model_researcher.egg-info/top_level.txt
+ollama-research-agent.egg-info/PKG-INFO
+ollama-research-agent.egg-info/SOURCES.txt
+ollama-research-agent.egg-info/dependency_links.txt
+ollama-research-agent.egg-info/requires.txt
+ollama-research-agent.egg-info/top_level.txt
 src/assistant/__init__.py
 src/assistant/configuration.py
 src/assistant/graph.py
