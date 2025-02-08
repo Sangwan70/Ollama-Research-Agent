@@ -1,5 +1,5 @@
 [project]
-name = "ollama-model-researcher"
+name = "ollama-research-agent"
 version = "0.1.1"
 description = "Lightweight web research and summarization tool."
 authors = [

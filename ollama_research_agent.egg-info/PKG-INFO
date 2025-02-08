@@ -14,12 +14,13 @@ Provides-Extra: dev
 Requires-Dist: mypy>=1.11.1; extra == "dev"
 Requires-Dist: ruff>=0.6.1; extra == "dev"
 
-# Ollama Deep Researcher
+# Ollama Research Agent 
 
 Ollama Research Agent  is an advanced, fully local web research assistant designed to leverage any Large Language Model (LLM) hosted by [Ollama](https://ollama.com/search). This tool facilitates comprehensive research by generating web search queries based on user-defined topics, gathering search results via [Tavily](https://www.tavily.com/), and summarizing the findings. It employs an iterative process to refine its understanding: after summarizing the initial results, it reflects on potential knowledge gaps, formulates new search queries to address these gaps, and conducts additional searches. This cycle repeats for a user-specified number of iterations, ensuring a thorough and well-rounded exploration of the topic.
 
 The final output is a detailed markdown summary that includes all sources used during the research process. By integrating Open Source Large Language Models, Ollama Deep Researcher offers a powerful, customizable, and privacy-focused solution for in-depth web research. Its ability to autonomously refine queries and improve summaries makes it an invaluable tool for users seeking accurate and comprehensive information on complex subjects.
 
+![research-rabbit](https://github.com/user-attachments/assets/4308ee9c-abf3-4abb-9d1e-83e7c2c3f187)
 
 Short summary:
 <video src="https://github.com/user-attachments/assets/02084902-f067-4658-9683-ff312cab7944" controls></video>
@@ -44,7 +45,7 @@ ollama pull deepseek-r1:8b
 3. Clone the repository:
 ```bash
 git clone https://github.com/Sangwan70/Ollama-Research-Agent.git
-cd ollama-deep-researcher
+cd Ollama-Research-Agent
 ```
 
 4. Get your web Search API from  [Tavily API](https://tavily.com/)
@@ -97,7 +98,7 @@ ollama pull deepseek-r1:8b
 3. Clone the repository:
 ```bash
 git clone https://github.com/Sangwan70/Ollama-Research-Agent.git
-cd ollama-deep-researcher
+cd Ollama-Research-Agent
 ```
  
 4. Get your web Search API from  [Tavily API](https://tavily.com/)

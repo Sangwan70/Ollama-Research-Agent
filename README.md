@@ -29,7 +29,7 @@ ollama pull deepseek-r1:8b
 3. Clone the repository:
 ```bash
 git clone https://github.com/Sangwan70/Ollama-Research-Agent.git
-cd ollama-deep-researcher
+cd Ollama-Research-Agent
 ```
 
 4. Get your web Search API from  [Tavily API](https://tavily.com/)
@@ -82,7 +82,7 @@ ollama pull deepseek-r1:8b
 3. Clone the repository:
 ```bash
 git clone https://github.com/Sangwan70/Ollama-Research-Agent.git
-cd ollama-deep-researcher
+cd Ollama-Research-Agent
 ```
  
 4. Get your web Search API from  [Tavily API](https://tavily.com/)

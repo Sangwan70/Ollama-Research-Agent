@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+ollama_research_agent.egg-info/PKG-INFO
+ollama_research_agent.egg-info/SOURCES.txt
+ollama_research_agent.egg-info/dependency_links.txt
+ollama_research_agent.egg-info/requires.txt
+ollama_research_agent.egg-info/top_level.txt
+src/assistant/__init__.py
+src/assistant/configuration.py
+src/assistant/graph.py
+src/assistant/prompts.py
+src/assistant/state.py
+src/assistant/utils.py
