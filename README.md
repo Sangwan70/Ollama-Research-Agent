@@ -67,7 +67,7 @@ source .venv/bin/activate
 ```bash
 # Install uv package manager
 curl -LsSf https://astral.sh/uv/install.sh | sh
-uvx --refresh --from "langgraph-cli[inmem]" --with-editable . --python 3.12 langgraph dev
+uvx --refresh --from "langgraph-cli[inmem]" --with-editable . langgraph dev
 ```
 
 ### Windows 
