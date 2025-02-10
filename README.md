@@ -12,7 +12,7 @@ Short summary:
 ## 📺 Video Lectures
 
 See it in action or build it yourself? Check out these helpful video tutorials:
-- [Overview of Ollama-Research-Agent with DeepSeek R1](https://www.youtube.com/#) - Load and test [DeepSeek R1](https://api-docs.deepseek.com/news/news250120) [distilled models](https://ollama.com/library/deepseek-r1).
+- [Overview of Ollama-Research-Agent with DeepSeek R1](https://www.youtube.com/watch?v=lXjSEi6cmDE) - Load and test [DeepSeek R1](https://api-docs.deepseek.com/news/news250120) [distilled models](https://ollama.com/library/deepseek-r1).
 - [Building Ollama Research Agent from Scratch](https://#) - Overview of how this is built.
 
 ## 🚀 Quickstart
