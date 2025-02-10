@@ -6,9 +6,6 @@ The final output is a detailed markdown summary that includes all sources used d
 
 ![research-rabbit](https://github.com/user-attachments/assets/4308ee9c-abf3-4abb-9d1e-83e7c2c3f187)
 
-Short summary:
-<video src="https://github.com/user-attachments/assets/02084902-f067-4658-9683-ff312cab7944" controls></video>
-
 ## 📺 Video Lectures
 
 See it in action or build it yourself? Check out these helpful video tutorials:
